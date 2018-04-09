@@ -1,0 +1,77 @@
+@media screen and (max-width: 480px){
+  body{
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    color: #000;
+    text-align: center;
+  }
+  #cap{
+    height: 100px;
+    background-color: #F33;
+    width: 100%;
+    position: fixed;
+    top: 0;
+  }
+  #cap h3{
+    margin: 10px 0;
+
+    color: #FFF;
+
+
+  }
+  #cos{
+    margin-top: 100px;
+    background-color: #CCC;
+    overflow: hidden;
+  }
+  #nav{
+    height: 40px;
+  }
+  ul{
+    margin: 0;
+    padding: 0;
+    padding-top: 5px;
+    width: 100%;
+  }
+  .menu{
+    display: inline;
+    list-style-type: none;
+
+    margin: 0px 5px;
+    padding: 5px 5px;
+    width: 15%;
+    color: #FFF;
+    border: solid 1px #FFF;
+
+  }
+  #contingut{
+    overflow: hidden;
+    background-color: #9C8454;
+  }
+  .news{
+    list-style-type: none;
+    background-color: #E2C562;
+    width: 90%;
+    height: 200px;
+    margin: 5%;
+    border: solid 5px #6E5F3C;
+  }
+  #lateral{
+    overflow: hidden;
+    background-color: #E2C562;
+  }
+  .aside{
+    list-style-type: none;
+    background-color: #9C8454;
+    width: 90%;
+    height: 100px;
+    margin: 5%;
+    border: solid 5px #6E5F3C;
+  }
+  #peu{
+    height: 40px;
+    background-color: #F33;
+
+  }
+}

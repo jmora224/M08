@@ -1,0 +1,81 @@
+@media screen and (min-width: 481px){
+
+  body{
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    color: #000;
+    text-align: center;
+  }
+  #cap{
+    height: 100px;
+    background-color: #F33;
+    width: 100%;
+    position: fixed;
+    top: 0;
+  }
+  #cap h3{
+    margin: 10px 0;
+    color: #FFF;
+
+
+  }
+  #cos{
+    margin-top: 100px;
+    background-color: #CCC;
+    overflow: hidden;
+  }
+  #nav{
+    height: 40px;
+  }
+  ul{
+    margin: 0;
+    padding: 0;
+    padding-top: 5px;
+    width: 100%;
+  }
+  .menu{
+    display: inline;
+    list-style-type: none;
+
+    margin: 0px 5px;
+    padding: 5px 5px;
+    width: 15%;
+    color: #FFF;
+    border: solid 1px #FFF;
+
+  }
+  #contingut{
+    background-color: #84926B;
+    width: 60%;
+    float: left;
+    overflow: hidden;
+  }
+  .news{
+    list-style-type: none;
+    background-color: #DAF7A6;
+    width: 90%;
+    height: 200px;
+    margin: 5%;
+    border: solid 5px #4E5A3A;
+  }
+  #lateral{
+    width: 40%;
+    float: left;
+    background-color: #DAF7A6;
+    overflow: hidden;
+  }
+  .aside{
+    list-style-type: none;
+    background-color: #84926B;
+    width: 90%;
+    height: 100px;
+    margin: 5%;
+    border: solid 5px #4E5A3A;
+  }
+  #peu{
+    height: 40px;
+    background-color: #F33;
+
+  }
+}
