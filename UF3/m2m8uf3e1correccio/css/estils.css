@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  padding:0;
+  font-family: 'Times', Serif;
+}
+
+#contenidor {
+  width: 920px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+#cap {
+  background-color: #CC9;
+  height: 300px;
+  width: 75%;
+  text-align: center;
+  float: left;
+
+}
+
+#animacio {
+  float: left;
+}
+
+#cont {
+  clear: both;
+  background-color: #999;
+  overflow: hidden;
+
+
+}
+
+#peu {
+  background-color: #CC9;
+  height: 40px;
+
+
+}
+
+#cont ul {
+  background-color: purple;
+  margin: 0;
+  padding: 0;
+}
+
+#cont li {
+  width: 220px;
+  height: 150px;
+  margin: 5px;
+  padding: 0;
+  background-color: #CCC;
+  display: block;
+  float: left;
+  text-align: center;
+
+}
+
+#cont li p{
+  margin: 0;
+  padding: 0;
+
+}
+
+#cont li a{
+border-radius: 10px;
+display: block;
+width: 220px;
+height: 150px;
+}
+
+#cont li a:hover{
+border-radius: 0;
+background-color: #966;
+}

@@ -1,0 +1,149 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+		body {
+			margin-left: 0px;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 0px;
+		    padding: 0px;
+		    font-size: 13px;
+		    color: #666;
+		    background-color: white;
+		    font-family: HelveticaNeue, Sans-serif;
+				font-family: Averia Libre;
+		}
+
+		a:link {
+			color: #666;
+			text-decoration: none;
+		}
+
+		a:hover {
+			color: #999;
+			text-decoration: none;
+		}
+
+		h1 {
+	margin: 0px;
+	width: 400px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	text-align: center;
+	font-size: 26px;
+		}
+
+		p {
+			margin: 0px;
+			padding-top: 0px;
+			padding-right: 50px;
+			padding-left: 50px;
+			width: 400px;
+			font-size: 18px;
+			line-height: 22px;
+		}
+
+		#barra {
+			height: 40px;
+		}
+		#menu {float:right;}
+
+		#menu li {
+	display: inline;
+		}
+
+		#Coneix {
+			background-color: #6C3;
+			margin: 0px;
+			padding: 0px;
+			height: 550px;
+			background-image: url(img/img-hero-full-list.png);
+			background-repeat: no-repeat;
+			background-position: 450px;
+		}
+
+		#Unsollloc {
+			background-image: url(img/allinone.jpg);
+			background-repeat: no-repeat;
+			height: 641px;
+			background-position: 450px;
+		}
+
+		#Util {
+	background-color: #333333;
+	margin: 0px;
+	padding: 0px;
+	height: 500px;
+	background-image: url(img/curator-short.png);
+	background-repeat: no-repeat;
+	background-position: 450px;
+		}
+
+		#Rapid {
+			background-color: #EEECEE;
+			margin: 0px;
+			padding: 0px;
+			height: 550px;
+			background-image: url(img/img-hero-full-list.png);
+			background-repeat: no-repeat;
+			background-position: 450px;
+		}
+
+		#Facil {
+			background-color: #6C3;
+			margin: 0px;
+			padding: 0px;
+			height: 550px;
+			background-image: url(img/mobile-share.png);
+			background-repeat: no-repeat;
+			background-position: 450px bottom;
+		}
+
+		#Arreu {
+			background-color: #EEECEE;
+			margin: 0px;
+			padding: 0px;
+			height: 643px;
+			background-image: url(img/anywhere.png);
+			background-repeat: no-repeat;
+			background-position: 450px;
+		}
+
+		#Canvia {
+	background-color: #333333;
+	margin: 0px;
+	padding: 0px;
+	height: 200px;
+	text-align: center;
+		}
+#menu {
+	text-align: right;
+	padding: 10px;
+}
+#logo {
+	position:absolute;
+	left:10px;
+	top:10px;
+	width:105px;
+	height:30px;
+	z-index:1;
+}
+#logofeedly {
+	margin-top: 10px;
+	margin-left: 50px;
+	margin-bottom: 0px;
+	text-align: left;
+}
+.blanc {
+	color: #CCC;
+}
+.verd {
+	color: #6C3;
+}
+#animacio{
+	width: 1100px;
+	margin: 0 auto;
+}

@@ -1,0 +1,129 @@
+@charset "UTF-8";
+
+/* CSS Document */
+body {
+	font-family: 'Lusitana', serif;
+}
+
+#tot {
+	background-color: #999;
+	height: 100%;
+	width: 920px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 0;
+}
+#tot #Nav {
+	background-color: #CC9;
+	height: 300px;
+	width: 75%;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}
+#tot #Nav p {	
+	font-size: 10px;
+	line-height: 10px;
+}
+#tot #Nav h5 {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 16px;
+}
+#tot #Nav h4 {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 18px;
+	margin-bottom: 12px;
+}
+#tot #Nav h3 {
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	margin-bottom: 12px;
+}
+#tot #Nav h2 {
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 26px;
+	margin-bottom: 12px;
+}
+#tot #Nav h1 {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 40px;
+}
+#tot #Animacio {
+	height: 300px;
+	width: 25%;
+	background-color: #CC9;
+	float: right;
+}
+
+#tot #Animacio img{
+	height: 300px;
+	width: auto;
+	float: right;
+}
+
+#tot #Contingut{
+	height: 100%;
+	width: 100%;
+}
+
+#tot #Contingut ul{
+	margin: 0 auto;
+	padding: 0;
+}
+
+#tot #Contingut #orla #my, #tot #Contingut #orla #my a:hover, #tot #Contingut #orla #my a:link, #tot #Contingut #orla #my a:visited {
+	background-color: #966;
+}
+#tot #Contingut #orla li {
+	display: block;
+	height: 160px;
+	width: 220px;
+	float: left;
+	margin: 5px;
+	padding: 0px;
+	text-align: center;
+	background-color: #CCC;
+	border-radius: 5px;
+}
+
+#tot #Contingut #orla li a {
+	display: block;
+	height: 140px;
+	width: 200px;
+	margin: 0px;
+	padding: 10px;
+	text-decoration: none;
+	color: #666;
+}
+
+#tot #Contingut #orla li a:hover {
+	background-color: #C99;
+	color: #606;
+}
+#tot #Contingut #orla li a img {
+	padding: 10px;
+}
+#tot #Contingut #orla li a h4 {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 18px;
+	margin: 0;
+}
+#tot #Peu {
+	clear: both;
+	margin: 0px;
+	padding: 10px;
+	height: 40px;
+	width: 900px;
+	background-color: #CC9;
+}
+
+}

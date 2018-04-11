@@ -1,0 +1,61 @@
+body {
+
+}
+
+div {
+
+}
+
+.quadrat {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  margin: 20px;
+  border: solid 10px black;
+  font-size: 48px;
+  font-family: Helvetica;
+  padding: 10px;
+  float: left;
+}
+
+#primer {
+  background-color:pink;
+  float: left;
+}
+
+#segon {
+  background-color:magenta;
+  float: left;
+}
+
+#tercer {
+  background-color:red;
+    float: left;
+
+}
+
+#quart {
+  background-color:purple;
+  float: left;
+}
+
+#cinque {
+  background-color:cyan;
+  clear: left;
+  float: right;
+}
+
+#sise {
+  background-color:skyblue;
+  float: right;
+}
+
+#sete {
+  background-color:navy;
+  float: right;
+}
+
+#vuite {
+  background-color:blue;
+  float: right;
+}
